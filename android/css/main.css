@@ -417,7 +417,26 @@ iframe {
     background: #fff;
     color: #4433ff
   }
- 
+
+.logo-img { 
+    height: 100px;
+    width: 100px;
+}
+
+.whatsapp-img {
+    height: 100px;
+    width: 300px;
+}
+
+.logo-img { 
+    height: 100px;
+    width: 100px;
+}
+
+.medio {
+    height: 60px;
+    width: 60px;
+}
 
 /*** MEDIA QUERIES ***/
 
