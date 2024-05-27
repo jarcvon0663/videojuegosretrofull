@@ -225,6 +225,19 @@ main {
     cursor: pointer;
 }
 
+.boton-flotante {
+    display: flex;
+    align-items: center;
+}
+
+.boton-flotante i {
+    margin-right: 5px; /* Ajusta el valor según tus necesidades */
+}
+
+.boton-flotante span {
+    margin-left: 5px; /* Ajusta el valor según tus necesidades */
+}
+
 /* Estilos para el pop-up */
 .popup {
     display: none;

@@ -387,6 +387,12 @@ main {
     color: #4433ff
   }
  
+.descargo-responsabilidad {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 20px;
+}
+
 
 /*** MEDIA QUERIES ***/
 
